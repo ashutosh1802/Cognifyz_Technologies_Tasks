@@ -16,13 +16,13 @@ This repository contains multiple tasks, including:
 - Technologies Used: Python, Pandas, Matplotlib, Seaborn, NumPy  
 - Dataset: `zomato.csv`
 
-✅ Task 2: Feature Engineering & Encoding
+**✅ Task 3: Feature Engineering & Encoding**
 
-Objective: Extract new features and encode categorical variables.
-Technologies Used: Python, Pandas
-Dataset: zomato.csv
-Operations: Extract restaurant_name_length & local_address_length
-Encode table_booking & online_order to binary (1/0)
+- Objective: Extract new features and encode categorical variables.
+- Technologies Used: Python, Pandas
+- Dataset: zomato.csv
+- Operations: 1)Extract restaurant_name_length & local_address_length
+              2)Encode table_booking & online_order to binary (1/0)
 
 
 ## 🛠️ How to Use  
