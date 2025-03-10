@@ -11,6 +11,11 @@ This repository contains multiple tasks, including:
 - Technologies Used: Python, Pandas, Matplotlib, Seaborn  
 - Dataset: `zomato.csv`
 
+✅ **Task 2: Restaurant Price vs. Rating Analysis**  
+- Objective: Analyze how restaurant prices impact customer ratings  
+- Technologies Used: Python, Pandas, Matplotlib, Seaborn, NumPy  
+- Dataset: `zomato.csv`
+
 
 ## 🛠️ How to Use  
 
