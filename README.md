@@ -8,7 +8,7 @@ This repository contains multiple tasks, including:
 
 ✅ **Task 1: Data Analysis & Visualization**  
 - Objective: Analyze restaurant data and generate insights  
-- Technologies Used: Python, Pandas, Matplotlib, Seaborn  
+- Technologies Used : Python, Pandas, Matplotlib, Seaborn  
 - Dataset: `zomato.csv`
 
 ✅ **Task 2: Restaurant Price vs. Rating Analysis**  
