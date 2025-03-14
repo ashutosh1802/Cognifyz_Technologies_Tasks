@@ -24,6 +24,15 @@ This repository contains multiple tasks, including:
 - Operations: 1)Extract restaurant_name_length & local_address_length
               2)Encode table_booking & online_order to binary (1/0)
 
+**Task: Model Training & Evaluation**
+- Objective: Train multiple regression models and evaluate their performance.
+- Technologies Used: Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+- Dataset: zomato.csv
+- Operations:1) Train Linear Regression, Decision Tree Regression, and Random Forest Regression models.
+2)Evaluate models using MAE, MSE, RMSE, and R² score.
+3)Plot feature importance (for tree-based models).
+4)Generate residual plots for error analysis.
+
 
 ## 🛠️ How to Use  
 
