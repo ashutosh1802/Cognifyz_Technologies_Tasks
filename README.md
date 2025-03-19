@@ -6,17 +6,17 @@ Welcome to the **Cognifyz Technologies Tasks** repository! This repository conta
 
 This repository contains multiple tasks, including:  
 
-✅ **Task 1: Data Analysis & Visualization**  
+✅ **L-2 Task L-1: Data Analysis & Visualization**  
 - Objective: Analyze restaurant data and generate insights  
 - Technologies Used : Python, Pandas, Matplotlib, Seaborn  
 - Dataset: `zomato.csv`
 
-✅ **Task 2: Restaurant Price vs. Rating Analysis**  
+✅ **L-2 Task 2: Restaurant Price vs. Rating Analysis**  
 - Objective: Analyze how restaurant prices impact customer ratings  
 - Technologies Used: Python, Pandas, Matplotlib, Seaborn, NumPy  
 - Dataset: `zomato.csv`
 
-**✅ Task 3: Feature Engineering & Encoding**
+✅ **L-2 Task 3: Feature Engineering & Encoding**
 
 - Objective: Extract new features and encode categorical variables.
 - Technologies Used: Python, Pandas
@@ -24,14 +24,25 @@ This repository contains multiple tasks, including:
 - Operations: 1)Extract restaurant_name_length & local_address_length
               2)Encode table_booking & online_order to binary (1/0)
 
-**Task: Model Training & Evaluation**
+✅ **L-3 Task 1: Model Training & Evaluation**
 - Objective: Train multiple regression models and evaluate their performance.
 - Technologies Used: Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 - Dataset: zomato.csv
-- Operations:1) Train Linear Regression, Decision Tree Regression, and Random Forest Regression models.
+- Operations: 1) Train Linear Regression, Decision Tree Regression, and Random Forest Regression models.
 2)Evaluate models using MAE, MSE, RMSE, and R² score.
 3)Plot feature importance (for tree-based models).
 4)Generate residual plots for error analysis.
+
+✅ **L-3 Task 2: Cuisine Analysis & Ratings**
+- Objective: Analyze the relationship between cuisine types and restaurant ratings.
+- Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn
+- Dataset: zomato.csv
+- Operations: 
+Handle missing values and convert ratings to numeric.
+Split cuisines_type to analyze individual cuisines.
+Identify top cuisines based on average rating.
+Identify most popular cuisines based on number of ratings.
+Visualize insights using bar plots and box plots.
 
 
 ## 🛠️ How to Use  
