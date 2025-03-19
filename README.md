@@ -20,14 +20,14 @@ This repository contains multiple tasks, including:
 
 - Objective: Extract new features and encode categorical variables.
 - Technologies Used: Python, Pandas
-- Dataset: zomato.csv
+- Dataset: `zomato.csv`
 - Operations: 1)Extract restaurant_name_length & local_address_length
               2)Encode table_booking & online_order to binary (1/0)
 
 ✅ **L-3 Task 1: Model Training & Evaluation**
 - Objective: Train multiple regression models and evaluate their performance.
 - Technologies Used: Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
-- Dataset: zomato.csv
+- Dataset: `zomato.csv`
 - Operations: 1) Train Linear Regression, Decision Tree Regression, and Random Forest Regression models.
 2)Evaluate models using MAE, MSE, RMSE, and R² score.
 3)Plot feature importance (for tree-based models).
@@ -36,13 +36,12 @@ This repository contains multiple tasks, including:
 ✅ **L-3 Task 2: Cuisine Analysis & Ratings**
 - Objective: Analyze the relationship between cuisine types and restaurant ratings.
 - Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn
-- Dataset: zomato.csv
-- Operations: 
-Handle missing values and convert ratings to numeric.
-Split cuisines_type to analyze individual cuisines.
-Identify top cuisines based on average rating.
-Identify most popular cuisines based on number of ratings.
-Visualize insights using bar plots and box plots.
+- Dataset: `zomato.csv`
+- Operations: 1)Handle missing values and convert ratings to numeric.
+2)Split cuisines_type to analyze individual cuisines.
+3)Identify top cuisines based on average rating.
+4)Identify most popular cuisines based on number of ratings.
+5)Visualize insights using bar plots and box plots.
 
 
 ## 🛠️ How to Use  
